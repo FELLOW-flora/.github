@@ -19,7 +19,7 @@ The **FELLOW** project aims to quantify the relative importance of different fac
   </tr>
   <tr>
     <td>Marie-Charlotte BOPP</td>
-    <td>Agro Sup Dijon, USA</td>
+    <td>Agro Sup Dijon, France</td>
   </tr>
   <tr>
     <td>Jocelyne CAMBECEDES</td>
