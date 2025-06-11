@@ -1,10 +1,10 @@
 ## Welcome to the FELLOW project
 
-[![](https://github.com/FELLOW-flora/.github/raw/main/profile/logo-FRB-Cesab-francais.jpg)](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fellow/)
+[![](https://github.com/FELLOW-flora/.github/raw/main/profile/banner-frbcesab_150dpi.png)](https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/) 
 
 > The research project **FELLOW** was selected from the [2023 FRB-MTE-OFB "Antropogenic pressures and impacts on terrestrial biodiversity](https://www.fondationbiodiversite.fr/en/calls/appel-a-projets-frb-mte-ofb-2023-pressions-anthropiques-et-impacts-sur-la-biodiversite-terrestre/).
 
-The **FELLOW** project aims to quantify the relative importance of different factors on the functional properties of the flora and to evaluate its biodiversity value for providing resources for pollinators, insects, birds and other organisms.
+The [**FELLOW** project](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fellow/) aims to quantify the relative importance of different factors on the functional properties of the flora and to evaluate its biodiversity value for providing resources for pollinators, insects, birds and other organisms.
 
 **FELLOW** is led by Elena KAZAKOU (CNRS, France) and Guillaum FRIED (Anses, France) and includes:
 
