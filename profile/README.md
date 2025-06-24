@@ -6,7 +6,7 @@
 
 The [**FELLOW** project](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/fellow/) aims to quantify the relative importance of different factors on the functional properties of the flora and to evaluate its biodiversity value for providing resources for pollinators, insects, birds and other organisms.
 
-**FELLOW** is led by Elena KAZAKOU (CNRS, France) and Guillaum FRIED (Anses, France) and includes:
+**FELLOW** is led by Elena KAZAKOU (CNRS, France) and Guillaume FRIED (Anses, France) and includes:
 
 <table>
   <tr>
